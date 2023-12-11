@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food_category_array">
+        <item>Main Dish</item>
+        <item>Side dish</item>
+        <item>Appetiser</item>
+        <item>Dessert</item>
+        <item>Baked good</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Sweet</item>
+        <item>Savory</item>
+        <item>Sour</item>
+        <item>Soup</item>
+        <item>Meat</item>
+        <item>Fish</item>
+        <item>Vegan</item>
+        <item>Vegetarian</item>
+        <item>Porridge</item>
+        <item>Noodle</item>
+        <item>Fry</item>
+        <item>Steam</item>
+    </string-array>
+</resources>

@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\font_bebas_neue.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\font\\bebas_neue.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_remove_circle_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_remove_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_night_mode_moon.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\night_mode_moon.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_video_library_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_video_library_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_manage_search_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_manage_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_wb_sunny_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_wb_sunny_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_fragment_suggestrecipe.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_suggestrecipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\anim_slide_in.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "com.example.virtualchef.app-merged_res-46:/layout_fragment_recipedetail.xml.flat",
+        "source": "com.example.virtualchef.app-main-48:/layout/fragment_recipedetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_exit_to_app_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_placeholder_img.png.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\placeholder_img.png"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_fragment_managebutton.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_managebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_fragment_settingsbutton.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_settingsbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_fragment_searchbutton.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_searchbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_saved_search_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_saved_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_dialogbkg.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\dialogbkg.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_whatshot_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_whatshot_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_ingredient_card.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\ingredient_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_fragment_subscription.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_subscription.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_ingredient_nutrients.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\ingredient_nutrients.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_mode_switch.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\mode_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_fragment_savedbutton.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_savedbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_dark_mode_track.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\dark_mode_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\anim_slide_out.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_bottomsheetlayout.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\bottomsheetlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_cast_connected_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_cast_connected_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\layout_fragment_recipedetail.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_recipedetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_light_mode_sun.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\light_mode_sun.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_subscriptions_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_subscriptions_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_nights_stay_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_nights_stay_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-merged_res-46:\\drawable_baseline_clear_24.xml.flat",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\drawable\\baseline_clear_24.xml"
+    }
+]

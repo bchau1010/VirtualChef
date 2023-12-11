@@ -23,4 +23,35 @@
         <item name ="android:windowEnterAnimation">@anim/slide_in</item>
         <item name ="android:windowExitAnimation">@anim/slide_out</item>
     </style>
+
+
+    <!-- FOR THE LIGHT MODE-->
+    <style name="ScreenBackGround">
+        <item name= "android:background">@color/white</item>
+    </style>
+
+    <style name="CardBackGround">
+        <item name= "android:background">@color/white</item>
+    </style>
+    <style name="TextColor">
+        <item name= "android:textColor">@color/Lavender</item>
+    </style>
+
+    <style name="ToolBar">
+        <item name= "android:background">@color/Lavender</item>
+    </style>
+
+    <style name="SuggestR">
+        <item name= "android:backgroundTint">@color/white</item>
+        <item name= "android:tint">@color/Lavender</item>
+    </style>
+
+    <style name="HeaderTitle">
+        <item name= "android:textColor">@color/black</item>
+        <!--item name= "android:background">@color/Lavender</item-->
+    </style>
+
+    <!--style name="ImageChange"><item name= "android:src">@color/black</item>></style-->
+
+
 </resources>

@@ -38,68 +38,6 @@ public class HomeFragment extends Fragment {
         binding = FragmentHomeBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-
-        manageButton = root.findViewById(R.id.manage_button);
-        savedButton = root.findViewById(R.id.saved_button);
-        settingsButton = root.findViewById(R.id.settings_button);
-        searchButton = root.findViewById(R.id.search_button);
-
-        textView = root.findViewById(R.id.text_savedbutton);
-        savedButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                FragmentManager fragmentManager = getParentFragmentManager();
-                //SavedFragment savedFragment = new SavedFragment();
-                //getActivity().getSupportFragmentManager().beginTransaction().replace(R.id.home,savedFragment).commit();
-                FragmentTransaction transaction = fragmentManager.beginTransaction();
-                //transaction.setReorderingAllowed(true);
-                transaction.replace(R.id.frame_layout, SavedFragment.class, null);
-                transaction.commit();
-            }
-        });
-        manageButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                replaceFragment(new ManageFragment());
-            }
-        });
-        searchButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                replaceFragment(new SearchFragment());
-            }
-        });
-        settingsButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                replaceFragment(new SettingsFragment());
-            }
-        });
-        //replaceFragment(new HomeFragment());
-
-
-
-        /*
-        textView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                FragmentManager fragmentManager = getParentFragmentManager();
-                //SavedFragment savedFragment = new SavedFragment();
-                //getActivity().getSupportFragmentManager().beginTransaction().replace(R.id.home,savedFragment).commit();
-                FragmentTransaction transaction = fragmentManager.beginTransaction();
-                //transaction.setReorderingAllowed(true);
-                transaction.replace(R.id.text_home, SavedFragment.class, null);
-                transaction.commit();
-            }
-        });
-
-         */
-
-
-
-
-        //final TextView textView = binding.textHome;
-        //homeViewModel.getText().observe(getViewLifecycleOwner(), textView::setText)
         return root;
     }
 

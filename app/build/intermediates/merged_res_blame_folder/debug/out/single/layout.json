@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\fragment_managebutton.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_managebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\fragment_searchbutton.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_searchbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\fragment_suggestrecipe.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_suggestrecipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\fragment_recipedetail.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_recipedetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\fragment_settingsbutton.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_settingsbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\fragment_savedbutton.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_savedbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\ingredient_nutrients.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\ingredient_nutrients.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.virtualchef.app-mergeDebugResources-45:/layout/fragment_recipedetail.xml",
+        "source": "com.example.virtualchef.app-main-48:/layout/fragment_recipedetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\bottomsheetlayout.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\bottomsheetlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\fragment_subscription.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\fragment_subscription.xml"
+    },
+    {
+        "merged": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-mergeDebugResources-45:\\layout\\ingredient_card.xml",
+        "source": "C:\\Users\\bchau\\.gradle\\daemon\\8.0\\com.example.virtualchef.app-main-48:\\layout\\ingredient_card.xml"
+    }
+]
