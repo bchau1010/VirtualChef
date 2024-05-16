@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "virtualchef-4661a",
+  "private_key_id": "da03fea5d099db9b6970c2fe3d5d1a53dad48328",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC/YOk7qqDBBt+w\nL+7tHqjXtT9diOLX83ZHJfBVUWgr88Z+nvsvRQhEMGI4iysARvSQD6uVujR/orkq\nOfqbradLMFB7oIAHQ3DklVnyqcDJO/X2eSfEEo1FRgdfWWyCgxFIf9J3n9hGYl23\nbomiVOAwNDMyhxxZuzB6oTsIyx6pN3CFOzNXm/sNkEYT+vwyZ4070d03ylxjDAhQ\nR/mrhEVDEpV6UddbtJvmuXPiGNaFag8q9RRbocKUimI5GU0BBCV+se6UW1Hsmjxs\nCsItjwVGH5BHBBWHv+0dZDWQ8ogZ1WikS7PdhWybKy7sgqWyj5mMtUbXVQtVw9EQ\n2P0RBCSdAgMBAAECgf9ICGjl1Yo+ivxd1IhQk0v55Qe90ZFHSW5Nxwwux6w3KApX\nee02FGo+9xu4CBeCzFbTUDcy7T6wy+ovMX7rh4OCtyy4gDDU1DIp13rxW2FHOIFJ\neweO/EgLlBlW3Iifu7WOyyAReOHcd5eFhbojuxfLn0fvGDTu/wYJa10ocicF90J5\nR4WW/QN87EvosncjztfwQBeKKDRnygd8l9pDu/C1L8uHUR4eZFNlhwMXgxO46kWY\nKhTzw35XHE/70heRVIq2Mqj4Jblh3bnPLCwiJl0+sUSyrV5MyXcasfOILdFI7U2Q\nqq35ggiKc6X7qxlO1NAnXac2QQRZAn/sElJa1GECgYEA+b92Hurjn//CeME5bCT9\naPQM6zynfx8Q8fCKfUi7kRmlVJ61TeVlXfD1oTb/Y+7mWhMI7PHjTKnvq+eTHVf4\nzp6rP41/N0wrTKJSitKhkDjEdkttFLw/8jLgO99DLhO080blvQT6IKfuw8hC89ZO\nLZIhgYhfkeJtNCRDAu59nS0CgYEAxCtiCA7BwloR7sojcDl5XhMkssaq2X5yPzNj\nZHki3qKK2Z7HCVk/1A+VkmYmF9MSbhgXhcx0mC2yN65ZAml86ROTdFK102JUFOWB\nnHLuaZDn4DRJNf3BgV9eED4l+nnObx+dG0kmIL4j0KbrB4J9cnh9IbWudiTkZbEw\nLoRsqzECgYB9Ha3PT105iqeiVyqtQtqw+ZJ/RqOiy61xh0/Z89YDmxV4jwnFPGbL\n6Ssk2KiZJ9W+ykpuab+1aGzpcdoBmVDMMjEYZYqV6VLH0YoIgfzug4HowWCkQqrG\nazZqyC6fpr/AIIR3bUbhlT/IVUs1XOdNbSfb/LXkH8sVlBT+IvxLAQKBgGhefIW0\n9DmnGitluH0Y1w3KOZg0Qun8cGRXvuXR3U9+Q0mNRHAg3+i/ceC2IEZEsmWIw9sX\n8GCWz174j7rMzPxkwer9pmeUxQ9pHBBUxau8wOF0cA8dtzpRtwYFSsd8zuwocbn2\nrSZ2gy+b3yfbsUqZ+FlbBDsvXaUNJIlbQ0XBAoGBAMSA2qLqLu074hl5NAIN4AbW\nlXI81ne9gcHJX+5gZuTeg28KmD1guCCCcjDm/N7WMmNPLJY7YywI2QR2KI3zEyZW\ng2m7qwtpsqRtPjQIWpZN+fBdzfw8Pv7UFLuKb4Ufa3DRZ+Zq4xaBco9rD9wBUDjc\nyc0OL0v5Agm/3eMzaR3C\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vj9xo@virtualchef-4661a.iam.gserviceaccount.com",
+  "client_id": "108507855000302658571",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vj9xo%40virtualchef-4661a.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
