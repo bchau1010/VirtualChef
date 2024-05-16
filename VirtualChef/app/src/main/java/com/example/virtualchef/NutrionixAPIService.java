@@ -13,8 +13,8 @@ import java.util.Map;
 
 public class NutrionixAPIService {
     private static final String API_URL = "https://trackapi.nutritionix.com/v2/search/instant";
-    private static final String API_KEY = "63903389f8ee97d4aeb8bd5f51dd923f"; // Replace with your actual API key
-    private static final String API_ID = "c4296d51";
+    private static final String API_KEY = ""; // Replace with your actual API key
+    private static final String API_ID = "";
     private RequestQueue requestQueue;
 
     public NutrionixAPIService(Context context) {
@@ -59,8 +59,8 @@ public class NutrionixAPIService {
     private static final String API_URL_SEARCH_INSTANT = "https://trackapi.nutritionix.com/v2/search/instant";
     private static final String API_URL_NATURAL_NUTRIENTS = "https://trackapi.nutritionix.com/v2/natural/nutrients";
 
-    private static final String API_KEY = "63903389f8ee97d4aeb8bd5f51dd923f";
-    private static final String API_ID = "c4296d51";
+    private static final String API_KEY = "";
+    private static final String API_ID = "";
     private RequestQueue requestQueue;
 
     public NutrionixAPIService(Context context) {
